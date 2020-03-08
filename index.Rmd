@@ -1,5 +1,5 @@
 ---
-title: "GF-0604 Procesamiento de datos geográficos<br><br>Presentación del curso"
+title: "GF-0604 Procesamiento<br>de datos geográficos<br><br>Presentación del curso"
 author: "Manuel Vargas"
 date: "2020-03-09"
 output: ioslides_presentation
