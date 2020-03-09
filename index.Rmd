@@ -9,11 +9,16 @@ output: ioslides_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## R Markdown
+## GF-0604 Procesamiento de datos geográficos
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+* **Profesor**: Manuel Vargas (mfvargas@gmail.com)
+* **Horario de clases**:
+    + Lunes: 13 - 15 (aula 211)
+    + Jueves: 13 - 15 (aula 214)
+* **Horario de consulta**:
+    + Lunes: 15 - 17 (sala de profesores)
+* [Programa del curso](https://github.com/geoprocesamiento-2020i/00-presentacion/blob/master/doc/GF-0604%20-%20Procesamiento%20de%20datos%20geogr%C3%A1ficos%20-%20Programa%20del%20curso%20-%202020-I.pdf)    
+    
 
 ## Slide with Bullets
 
