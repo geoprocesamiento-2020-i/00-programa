@@ -14,8 +14,8 @@ Curso introductorio al procesamiento de datos geográficos mediante el lenguaje 
 
 * **Profesor**: Manuel Vargas (mfvargas@gmail.com)
 * **Horario de clases**:
-    + Lunes: 13 - 15 (aula 211)
-    + Jueves: 13 - 15 (aula 214)
+    + Lunes: 13 - 16 (aula 211)
+    + Jueves: 13 - 16 (aula 214)
 * **Horario de consulta**:
-    + Lunes: 15 - 17 (sala de profesores)
+    + Lunes: 16 - 18 (sala de profesores)
 * [Programa del curso](https://github.com/geoprocesamiento-2020i/00-presentacion/blob/master/doc/GF-0604%20-%20Procesamiento%20de%20datos%20geogr%C3%A1ficos%20-%20Programa%20del%20curso%20-%202020-I.pdf)
