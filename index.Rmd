@@ -18,24 +18,4 @@ Curso introductorio al procesamiento de datos geográficos mediante el lenguaje 
     + Jueves: 13 - 15 (aula 214)
 * **Horario de consulta**:
     + Lunes: 15 - 17 (sala de profesores)
-* [Programa del curso](https://github.com/geoprocesamiento-2020i/00-presentacion/blob/master/doc/GF-0604%20-%20Procesamiento%20de%20datos%20geogr%C3%A1ficos%20-%20Programa%20del%20curso%20-%202020-I.pdf)    
-    
-
-## Slide with Bullets
-
-- Bullet 1
-- Bullet 2
-- Bullet 3
-
-## Slide with R Output
-
-```{r cars, echo = TRUE}
-summary(cars)
-```
-
-## Slide with Plot
-
-```{r pressure}
-plot(pressure)
-```
-
+* [Programa del curso](https://github.com/geoprocesamiento-2020i/00-presentacion/blob/master/doc/GF-0604%20-%20Procesamiento%20de%20datos%20geogr%C3%A1ficos%20-%20Programa%20del%20curso%20-%202020-I.pdf)
