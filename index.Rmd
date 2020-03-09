@@ -10,6 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## GF-0604 Procesamiento de datos geográficos
+Curso introductorio al procesamiento de datos geográficos mediante el lenguaje de programación R. Se estudian los fundamentos del lenguaje, sus bibliotecas geoespaciales y sus capacidades para generar gráficos y modelos estadísticos.
 
 * **Profesor**: Manuel Vargas (mfvargas@gmail.com)
 * **Horario de clases**:
